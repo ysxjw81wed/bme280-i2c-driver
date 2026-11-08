@@ -1,0 +1,10 @@
+build/
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+compile_commands.json
+.vscode/
+.cache/
